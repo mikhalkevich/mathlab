@@ -17,3 +17,4 @@ Laravel shop
 - php artisan serve
 - npm run dev
 - После чего сайт будет доступен по маршруту http://localhost:8000 
+- Ветка для публичного сервера main. Ветка для тестового сервера develop. Для больших задач используем feature
